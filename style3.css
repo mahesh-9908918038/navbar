@@ -1,0 +1,21 @@
+.body {
+  background-color: aquamarine;
+  width: 50px;
+  height: 100px;
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+   background-color:rgb(135, 189, 222) ;
+  box-shadow: 0px 2px 5px 5px rgb(8, 8, 8);
+  
+  
+}
+
+.NAV {
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+}
